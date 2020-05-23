@@ -22,5 +22,8 @@ class ViewController: UIViewController {
         print("テスト2")
     }
     
+    func Log10(){
+        print("テスト10")
+    }
 }
 
